@@ -1,4 +1,2 @@
 # mpm_demo
-gugugaga
-gagagugu
-1231
+test demo repo.
